@@ -107,10 +107,10 @@ public class MainFrame extends JFrame {
         JLabel labelForM1 = new JLabel("M1:");
         textFieldM[0] = new JTextField("0", 12);
         textFieldM[0].setMaximumSize(textFieldM[0].getPreferredSize());
-        JLabel labelForM2 = new JLabel("M1:");
+        JLabel labelForM2 = new JLabel("M2:");
         textFieldM[1] = new JTextField("0", 12);
         textFieldM[1].setMaximumSize(textFieldM[1].getPreferredSize());
-        JLabel labelForM3 = new JLabel("M1:");
+        JLabel labelForM3 = new JLabel("M3:");
         textFieldM[2] = new JTextField("0", 12);
         textFieldM[2].setMaximumSize(textFieldM[2].getPreferredSize());
 
