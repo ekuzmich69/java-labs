@@ -1,6 +1,4 @@
 package com.company;
-
-
 import javax.swing.table.AbstractTableModel;
 
 public class GornerTable extends AbstractTableModel{

@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01e8127b-f68e-4859-9722-0d562f315b37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BoolTableCellVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GornerTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableCellVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/MainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab3/com/company/BoolTableCellVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab3/com/company/BoolTableCellVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab3/com/company/GornerTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab3/com/company/GornerTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab3/com/company/TableCellVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab3/com/company/TableCellVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoolTableCellVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BoolTableCellVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GornerTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GornerTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableCellVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TableCellVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -29,25 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java projects&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/java labs/lab4"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="MainFrame" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="15" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="lab3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
